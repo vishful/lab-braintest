@@ -1,8 +1,8 @@
 package testing;
-/* Uncomment the below code to test your application
+
 
 import static org.junit.Assert.assertEquals;
-
+import java.util.Scanner;
 import org.junit.Test;
 
 import service.PersonalityCalculator;
@@ -28,4 +28,5 @@ public class TestPersonalityCalculator {
 			e.printStackTrace();
 		}
 	}
-}*/
+}
+
